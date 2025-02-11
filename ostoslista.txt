@@ -2,8 +2,5 @@ maito
 leipajuusto
 juusto
 kahvi
-<<<<<<< HEAD
 omena
-=======
 peruna
->>>>>>> 860cb054853d62689ba5b8048ccb63a5113498ea
