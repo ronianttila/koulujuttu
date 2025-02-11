@@ -2,3 +2,4 @@ maito
 leipajuusto
 juusto
 kahvi
+omena
